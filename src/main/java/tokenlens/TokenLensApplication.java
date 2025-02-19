@@ -1,4 +1,4 @@
-package org.example.tokenlens;
+package tokenlens;
 
 
 import org.springframework.boot.SpringApplication;
